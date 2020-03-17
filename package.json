@@ -1,0 +1,16 @@
+{
+  "name": "3-build-with-ssg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vibes.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "sad_c0der <sad_c0der@ctemplar.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
